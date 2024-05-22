@@ -13,7 +13,7 @@ Toggle sign (+/-)
 
 USAGE
 Clone the repository:
-git clone https://github.com/your-username/calculator-app.git
+git clone https://k0lapo.github.io/calculator-app/
 
 Navigate to the project directory:
 cd calculator-app
